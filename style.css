@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(133, 189, 77);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Playfair;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 5px;
+}
+#Form{
+    background-color: white;
+    padding: 200px;
+}
+#name{
+    width: 400px;
+    height: 50px;
+    background-color: rgba(121, 117, 117, 0.336);
+    border: 0px;
+}
+#password{
+    width: 400px;
+    height: 50px;
+    background-color: rgba(121, 117, 117, 0.336);
+    border: 0px;
+}
+#Login{
+    width: 400px;
+    height: 50px;
+    background-color: rgb(133, 189, 77);
+    border: 0px;
+    color: white;
+}
+.create{
+    color: rgb(133, 189, 77);
+}
+p{
+    text-align: center;
+    color: rgba(121, 117, 117, 0.336)
+}
